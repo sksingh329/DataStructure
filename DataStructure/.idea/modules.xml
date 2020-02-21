@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../algoExpert/algoExpert.iml" filepath="$PROJECT_DIR$/../algoExpert/algoExpert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codingPractise/codingPractise.iml" filepath="$PROJECT_DIR$/../codingPractise/codingPractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dBBasic/dBBasic.iml" filepath="$PROJECT_DIR$/../dBBasic/dBBasic.iml" />
+    </modules>
+  </component>
+</project>

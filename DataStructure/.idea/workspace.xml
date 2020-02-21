@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca0fa3ab-691e-49db-bf9a-f7e9ba5de454" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZl5rKipj4o5oa2IqeG8oTx9di" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.MaximumSubArrayTest">
+    <configuration name="BinarySearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchTest" />
+      <module name="algoExpert" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindThreeLargestNumbersTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindThreeLargestNumbersTest" />
+      <module name="algoExpert" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSubArrayTest" />
+      <module name="dBBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubArrayUsingRecursionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSubArrayUsingRecursionTest" />
+      <module name="dBBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortTest" />
+      <module name="dBBasic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumSubArrayTest" />
+        <item itemvalue="Application.MaximumSubArrayUsingRecursionTest" />
+        <item itemvalue="Application.MergeSortTest" />
+        <item itemvalue="Application.FindThreeLargestNumbersTest" />
+        <item itemvalue="Application.BinarySearchTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca0fa3ab-691e-49db-bf9a-f7e9ba5de454" name="Default Changelist" comment="" />
+      <created>1577468317646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577468317646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="93" width="992" height="669" key="#Project_Structure" timestamp="1578223747616">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="139" y="93" width="992" height="669" key="#Project_Structure/0.23.1440.797@0.23.1440.797" timestamp="1578223747616" />
+    <state x="320" y="94" key="#Project_Structure/0.23.1440.811@0.23.1440.811" timestamp="1577546124259" />
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577520723333">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="184" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1577520723333" />
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom" timestamp="1581709874078">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1581709874078" />
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1581526875973" />
+    <state width="1398" height="246" key="GridCell.Tab.0.center" timestamp="1581709874077">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1581709874077" />
+    <state width="1398" height="247" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1581526875972" />
+    <state width="1398" height="246" key="GridCell.Tab.0.left" timestamp="1581709874077">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1581709874077" />
+    <state width="1398" height="247" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1581526875972" />
+    <state width="1398" height="246" key="GridCell.Tab.0.right" timestamp="1581709874078">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="246" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1581709874078" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1581526875972" />
+    <state x="229" y="23" key="SettingsEditor" timestamp="1578223787445">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="229" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1578223787445" />
+    <state x="229" y="23" key="SettingsEditor/0.23.1440.811@0.23.1440.811" timestamp="1577546419778" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1577545130214">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="399" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1577468338039" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1577545130214" />
+    <state x="114" y="51" key="new project wizard" timestamp="1577520371805">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="114" y="51" key="new project wizard/0.23.1440.811@0.23.1440.811" timestamp="1577520371805" />
+    <state x="385" y="144" width="670" height="677" key="search.everywhere.popup" timestamp="1581523752173">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1578231763546" />
+    <state x="385" y="144" width="670" height="677" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1581523752173" />
+  </component>
+</project>
