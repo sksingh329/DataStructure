@@ -1,3 +1,5 @@
+package sorting;
+
 public class MergeSort {
 
     public void merge(int[] array, int p, int q, int r){
@@ -29,13 +31,27 @@ public class MergeSort {
         }
     }
 
+    public void merge2(int[] input,int start,int mid,int end){
+        if(input[mid-1] <= input[mid]) return;
+
+        int i = start, j = mid, tempIndex = 0;
+        int[] temp =new int[end-start];
+
+        while(i<mid && j<end){
+            temp[tempIndex++]=input[i]<=input[j]?input[i++]:input[j++];
+        }
+        System.arraycopy(input,i,input,start+tempIndex,mid-i);
+        System.arraycopy(temp,0,input,start,tempIndex);
+    }
+
     public void mergeSort(int[] array, int p, int r){
+        if(r-p<2) return;
         int q;
-        if(p < r){
+
             q = (p+r)/2;
             mergeSort(array,p,q);
-            mergeSort(array,q+1,r);
-            merge(array,p,q,r);
-        }
+            mergeSort(array,q,r);
+            merge2(array,p,q,r);
+
     }
 }
