@@ -1,3 +1,4 @@
+package simple;
 
 import simple.ProductSum;
 

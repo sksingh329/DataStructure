@@ -1,3 +1,5 @@
+package simple;
+
 import simple.FindThreeLargestNumbers;
 
 public class FindThreeLargestNumbersTest {

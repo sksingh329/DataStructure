@@ -1,3 +1,5 @@
+package simple;
+
 import simple.BinarySearch;
 
 public class BinarySearchTest {
